@@ -11,6 +11,7 @@
 	<h1 style="color: blue; font-size: 40px;" align="center">WE DEPLOYED OUR APP ON 2 SERVERS</h1>
 	<h1 style="color: red; font-size: 40px;" align="center">WELCOME TO FRONTLINES MEDIA</h1>
 	<h1 style="color: red; font-size: 40px;" align="center">I integrated Nexus to Jenkins</h1>
+        <h1 style="color: violet; font-size: 40px;" align="center">HEY I am trying to add parameters to the pipeline</h1>
 	
 	
 	
