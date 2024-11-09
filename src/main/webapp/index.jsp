@@ -13,7 +13,7 @@
 	<h1 style="color: red; font-size: 40px;" align="center">I integrated Nexus to Jenkins</h1>
         <h1 style="color: violet; font-size: 40px;" align="center">HEY I am trying to add parameters to the pipeline</h1>
         <h1 style="color: green; font-size: 40px;" align="center">I am a DevOps Engineer</h1>
-
+        <h1 style="color: violet; font-size: 40px;" align="center">Now I am integrated NEXUS Artifactory</h1>
 	
 	
 	
